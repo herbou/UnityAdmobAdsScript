@@ -12,8 +12,8 @@ public class Admob : MonoBehaviour
 
 	void Start ()
 	{
-		idApp = "ca-app-pub-3940256099942544~3347511713";
-		idBanner = "ca-app-pub-3940256099942544/6300978111";
+		idApp = "ca-app-pub-7550481936301544~3886543031";
+		idBanner = "ca-app-pub-7550481936301544/7466200555";
 
 		MobileAds.Initialize (idApp);
 
